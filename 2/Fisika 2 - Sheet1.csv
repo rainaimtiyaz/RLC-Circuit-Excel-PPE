@@ -1,0 +1,9 @@
+wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire
+wire,,,,,,wire,,,,wire
+Ammeter_load,,,,,,Resistor_load3,,,,Resistor_load1
+wire,,,,,,wire,,,,wire
+Voltmeter_load,,,,,,wire,,,,wire
+wire,,,,,,wire,,,,wire
+VoltageSource_source,,,,,,Resistor_load4,,,,Resistor_load2
+wire,,,,,,wire,,,,wire
+wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire
